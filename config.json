@@ -1,0 +1,6 @@
+{
+    "token": "enter your discord token here", # your discord token
+    "api_key": "enter your yandex api key here", # your yandex api key
+    "language": "ja" # the language you want to translate to, currently set as japanese
+    "uid": "Enter UID Here" # your user id
+}

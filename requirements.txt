@@ -1,0 +1,4 @@
+pip install colorama
+pip install discum
+pip install requests
+pip install json
