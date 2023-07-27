@@ -2,7 +2,7 @@
 
 # Info
 
- Named after a now deceased youtuber who was known for being a polyglot; Also known as someone who would speak multiple languages. This selfbot is in memory of him and lets you experience what he experienced by translating your messages into another language using yandex's translation api.
+ this selfbot lets you experience other cultures by translating your message and editing it and returns it to the language of your choice, to find the language that you can replace it to just search the language's 'language code' (2 letter code) example ; fr - french. here's a list of supported languages : https://yandex.com/support/translate/supported-langs.html
 
 # Extra
 
